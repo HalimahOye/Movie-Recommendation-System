@@ -20,7 +20,7 @@ Scikit-Learn Surprise: SVDpp , SVD
 
 # Summary 
 
-Root mean squared error (RMSE) was used as evaluation metrics
+Root mean squared error (RMSE) was used as evaluation metrics, RMSE of 0.81459 was achieved
 
 # Challenges
 It was a heavy data set with a million plus records , dataset had to be reduced to for the model to easily handle it
